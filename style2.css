@@ -1,0 +1,13 @@
+.resume-content{padding: 20px 20px 20px 20px;width: 900px;margin-left: auto;margin-right: auto;background: #FFFFFF;}
+.resume-content .title{font-size: 22px;font-weight: bold;display: block;margin: 20px 0;}
+.resume-content .content{display: block;}
+.resume-content .content span{display: inline-block;margin-right: 20px;line-height: 30px;font-size: 16px;font-weight: bold;}
+.resume-content .content span small{font-size: 16px;padding-left: 10px;}
+.resume-content .content span .special{text-decoration: underline;color: #3234E4;}
+.resume-content div{display: block;margin: 10px 0;}
+.resume-content div>span{display: block;line-height: 26px;font-weight: 600;}
+.resume-content .resume-content-title{display: inline-block;width: 200px;height: 764px;background: #65A4FA;margin-right: 20px;}
+.left{float: left;}
+.right{float: right;}
+.clearfloat:after{content: ""; display: block; clear: both;}
+.clearfloat{zoom: 1;}
